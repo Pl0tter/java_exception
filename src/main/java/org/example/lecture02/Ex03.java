@@ -1,6 +1,5 @@
 package org.example.lecture02;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -19,7 +18,7 @@ public class Ex03 {
                 assert test != null;
                 test.close();
             } catch (IOException e) {
-                System.out.println("exception while lose");                ;
+                System.out.println("exception while lose");
             }
             System.out.println("finally finished");
         }

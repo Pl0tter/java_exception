@@ -1,6 +1,5 @@
 package org.example.homework01;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Ex02 {

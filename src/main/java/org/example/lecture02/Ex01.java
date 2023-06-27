@@ -25,6 +25,5 @@ public class Ex01 {
 //        List<Object> emptyList = Collections.emptyList();
 //        emptyList.add(new Object());
 
-
     }
 }

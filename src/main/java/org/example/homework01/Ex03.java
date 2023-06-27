@@ -1,7 +1,6 @@
 package org.example.homework01;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -18,7 +17,7 @@ public class Ex03 {
     public static void main(String[] args) throws IOException {
         BufferedReader file = null;
         try {
-            file = new BufferedReader(new FileReader("src/main/java/org/example/lecture02/int_file.txt"));
+            file = new BufferedReader(new FileReader("src/main/java/org/example/homework01/int_file.txt"));
             String line = file.readLine();
             double sum = 0;
             while (line != null) {
