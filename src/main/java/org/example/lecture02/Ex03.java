@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Ex03 {
     public static void main(String[] args) {
-//        Можно объединить исключения в обном блоке
+//        Можно объединить исключения в одном блоке
         FileReader test = null;
         try {
             test = new FileReader("test");
@@ -18,7 +18,7 @@ public class Ex03 {
                 assert test != null;
                 test.close();
             } catch (IOException e) {
-                System.out.println("exception while lose");
+                System.out.println("exception while close");
             }
             System.out.println("finally finished");
         }
