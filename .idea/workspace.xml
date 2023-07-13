@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efca45ba-f0d6-432e-8bb0-53923de6d406" name="Changes" comment="add Lecture, Seminar, Homework 03">
+    <list default="true" id="efca45ba-f0d6-432e-8bb0-53923de6d406" name="Changes" comment="fix Homework 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework03/FundsTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework03/FundsTransfer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\Exception\src\main\java\org\example\homework01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.homework02" />
       <recent name="org.example.homework03" />
       <recent name="org.example.seminar03" />
       <recent name="org.example.lecture03" />
@@ -96,14 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1689255036176</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix Homework 03">
+      <created>1689255696859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689255696859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Lecture and Seminar 01-02" />
     <MESSAGE value="fix Homework 01" />
     <MESSAGE value="add Lecture, Seminar, Homework 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Lecture, Seminar, Homework 03" />
+    <MESSAGE value="fix Homework 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix Homework 03" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
